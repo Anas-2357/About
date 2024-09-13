@@ -1,0 +1,13 @@
+Name: Anas
+College: ShyamLal
+Year: 2025
+Degree: BCA
+
+Skillset:
+    -Technical: html, css, js, react, next, etc.
+    -Soft Skills: Can do decent communication in English
+
+Projects: 
+    -IntelliEdit: A web based Colaborative Text Editor with Ai Chat
+Achievements: 
+    -Completed all course stuff till now.
